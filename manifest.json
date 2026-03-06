@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "lastYear": "2026",
   "entries": [
     {
@@ -8,10 +8,15 @@
       "series": "Red Edition"
     },
     {
+      "name": "Aston Martin Aramco Formula One Team",
+      "year": "2026",
+      "series": "Formula 1",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Test Car 2027",
       "year": "2027",
       "series": "Test Series"
     }
   ]
 }
-
