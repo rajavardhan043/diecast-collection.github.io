@@ -1,6 +1,7 @@
 {
   "version": 4,
   "lastYear": "2026",
+  "dataUrl": "https://raw.githubusercontent.com/rajavardhan043/DiecastApp/main/src/data/carLookup.json",
   "entries": [
     {
       "name": "1970 Pontiac Firebird",

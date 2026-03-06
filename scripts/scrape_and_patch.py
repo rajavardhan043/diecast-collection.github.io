@@ -173,10 +173,12 @@ def generate_patch(fresh_entries):
         json.dump(updated_baseline, f, ensure_ascii=False, indent=2)
 
     max_year = max((e.get("year", "0") for e in fresh_entries), default="0")
+    data_url = "https://raw.githubusercontent.com/rajavardhan043/DiecastApp/main/src/data/carLookup.json"
     manifest = {
         "version": version,
         "lastYear": max_year,
         "entries": existing_entries,
+        "dataUrl": data_url,
     }
     with open(MANIFEST_PATH, "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
