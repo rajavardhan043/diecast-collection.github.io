@@ -1,5 +1,17 @@
 {
   "version": 3,
   "lastYear": "2026",
-  "patchUrl": "https://raw.githubusercontent.com/rajavardhan043/diecast-collection.github.io/main/patch-v3.json"
+  "entries": [
+    {
+      "name": "1970 Pontiac Firebird",
+      "year": "2026",
+      "series": "Red Edition"
+    },
+    {
+      "name": "Test Car 2027",
+      "year": "2027",
+      "series": "Test Series"
+    }
+  ]
 }
+

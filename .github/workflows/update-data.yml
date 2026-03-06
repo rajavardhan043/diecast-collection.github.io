@@ -23,6 +23,9 @@ jobs:
       - name: Run scraper and patch generator
         run: python3 scripts/scrape_and_patch.py
 
+      - name: Remove old patch files (no longer used)
+        run: rm -f patch-v*.json
+
       - name: Check for changes
         id: changes
         run: |
@@ -40,3 +43,13 @@ jobs:
           git add -A
           git commit -m "Auto-update: new car data from Hot Wheels Wiki"
           git push
+
+      - name: Trigger app repo to sync carLookup
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          curl -sS -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.APP_REPO_DISPATCH_TOKEN }}" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/rajavardhan043/DiecastApp/dispatches \
+            -d '{"event_type":"sync-car-data"}'
