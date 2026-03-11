@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "lastYear": "2026",
   "entries": [
     {
@@ -14,10 +14,58 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "ATV",
+      "year": "2005",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/ATV_CIMG1201.JPG"
+    },
+    {
+      "name": "Baja Bug",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Baja_Bug_RedGltr.JPG"
+    },
+    {
+      "name": "Blazer 4×4",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Blazer_4x4_BluGltr.JPG"
+    },
+    {
+      "name": "Bywayman",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Power_Plower_BetGrnCT.JPG"
+    },
+    {
+      "name": "Double Demon",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Double_Demon_YelUH.JPG"
+    },
+    {
+      "name": "Gulch Stepper",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Gulch_Stepper_BrtYel.JPG"
+    },
+    {
       "name": "Nissan Skyline GT-R",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Path Beater",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Bywayman_WtBluCT.JPG"
+    },
+    {
+      "name": "Street Roader",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Street_Roader_Grn.JPG"
     },
     {
       "name": "Test Car 2027",
