@@ -2,7 +2,7 @@ name: Update Car Data
 
 on:
   schedule:
-    - cron: '0 6 * * 1'  # Every Monday at 6 AM UTC
+    - cron: '30 0 * * 1,3,4,6' # Thu, Sat, Mon, Wed at 6 AM IST (every alternate day starting Thursday)
   workflow_dispatch:       # Manual trigger from GitHub UI
 
 permissions:
