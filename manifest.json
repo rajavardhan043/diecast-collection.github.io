@@ -1,7 +1,19 @@
 {
-  "version": 6,
+  "version": 7,
   "lastYear": "2026",
   "entries": [
+    {
+      "name": "'21 Ford Bronco",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'70 Ford Mustang Mach 1",
+      "year": "2011",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/70_ford_mustang_mach_1_2011_yellow.png"
+    },
     {
       "name": "1970 Pontiac Firebird",
       "year": "2026",
@@ -38,16 +50,51 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Power_Plower_BetGrnCT.JPG"
     },
     {
+      "name": "Click Shift",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Double Demon",
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Double_Demon_YelUH.JPG"
     },
     {
+      "name": "Fiat 500C",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Ford Stake Bed Truck",
+      "year": "1993",
+      "series": ""
+    },
+    {
+      "name": "Good Humor Truck",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Good_Humor_Truck_LimeGrn.JPG"
+    },
+    {
       "name": "Gulch Stepper",
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Gulch_Stepper_BrtYel.JPG"
+    },
+    {
+      "name": "Lil' Roar",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Mercedes-Benz Unimog",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mercedes_Benz_Unimog_TanCTW.JPG"
     },
     {
       "name": "Nissan Skyline GT-R",
@@ -77,6 +124,12 @@
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Tractor",
+      "year": "1993",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Tractor_Red.JPG"
     }
   ],
   "dataUrl": "https://raw.githubusercontent.com/rajavardhan043/DiecastApp/main/src/data/carLookup.json"
