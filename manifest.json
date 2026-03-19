@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "lastYear": "2026",
   "entries": [
     {
@@ -66,6 +66,24 @@
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Ford F-150 Lightning SuperTruck",
+      "year": "2026",
+      "series": "Truckin' Along",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FordSupertruck.jpg"
+    },
+    {
+      "name": "Ford Performance SuperVan 4",
+      "year": "2024",
+      "series": "HW Green Speed",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FordSuperVan4.jpg"
+    },
+    {
+      "name": "Ford Performance SuperVan 4",
+      "year": "2025",
+      "series": "HW First Response",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FirstResponseSupervan.jpg"
     },
     {
       "name": "Ford Stake Bed Truck",
