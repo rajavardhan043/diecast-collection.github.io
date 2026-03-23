@@ -2012,6 +2012,12 @@
   },
   {
     "name": "'57 Chevy",
+    "year": "1993",
+    "series": "",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/M1992-01.jpg"
+  },
+  {
+    "name": "'57 Chevy",
     "year": "1995",
     "series": ""
   },
@@ -7624,6 +7630,12 @@
   },
   {
     "name": "3-Window '34",
+    "year": "1993",
+    "series": "",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/3_Window_34_WhtPrpBW.JPG"
+  },
+  {
+    "name": "3-Window '34",
     "year": "1995",
     "series": ""
   },
@@ -10235,6 +10247,12 @@
     "name": "BMW M4",
     "year": "2017",
     "series": ""
+  },
+  {
+    "name": "BMW M4 GT3",
+    "year": "2026",
+    "series": "HW Starting Grid",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "BMW R nineT Racer",
