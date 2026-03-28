@@ -1,11 +1,23 @@
 {
-  "version": 9,
+  "version": 10,
   "lastYear": "2026",
   "entries": [
+    {
+      "name": "'11 Corvette Grand Sport",
+      "year": "2026",
+      "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
     {
       "name": "'21 Ford Bronco",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'55 Chevy",
+      "year": "2026",
+      "series": "Cool Classics",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -15,10 +27,46 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/M1992-01.jpg"
     },
     {
+      "name": "'63 Chevy II",
+      "year": "2026",
+      "series": "Compact Kings",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'68 Shelby GT500",
+      "year": "2026",
+      "series": "HW Torque",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'70 Buick GSX",
+      "year": "2026",
+      "series": "HW Torque",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'70 Dodge Charger",
+      "year": "2026",
+      "series": "Tooned",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "'70 Ford Mustang Mach 1",
       "year": "2011",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/70_ford_mustang_mach_1_2011_yellow.png"
+    },
+    {
+      "name": "'82 Toyota Supra",
+      "year": "2026",
+      "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'94 Audi Avant RS2",
+      "year": "2026",
+      "series": "Wagons",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "1970 Pontiac Firebird",
@@ -30,6 +78,12 @@
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/3_Window_34_WhtPrpBW.JPG"
+    },
+    {
+      "name": "Amaru GTC",
+      "year": "2026",
+      "series": "HW Mods",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Aston Martin Aramco Formula One Team",
@@ -80,6 +134,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Double_Demon_YelUH.JPG"
     },
     {
+      "name": "Duck N' Roll",
+      "year": "2026",
+      "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Fiat 500C",
       "year": "2026",
       "series": "",
@@ -121,9 +181,21 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Gulch_Stepper_BrtYel.JPG"
     },
     {
+      "name": "Jaguar XJC V12 Coupe",
+      "year": "2026",
+      "series": "HW Euro",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Lil' Roar",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Mad Drip",
+      "year": "2026",
+      "series": "Sweet Rides",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -131,6 +203,12 @@
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mercedes_Benz_Unimog_TanCTW.JPG"
+    },
+    {
+      "name": "Mountain Mauler",
+      "year": "2026",
+      "series": "Hot Wheels Let's Race",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Nissan Skyline GT-R",
