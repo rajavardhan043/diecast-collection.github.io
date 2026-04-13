@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "lastYear": "2026",
   "entries": [
     {
@@ -69,9 +69,27 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "1963 Ford Galaxie",
+      "year": "2026",
+      "series": "Cool Classics",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "1970 Pontiac Firebird",
       "year": "2026",
       "series": "Red Edition"
+    },
+    {
+      "name": "1972 Datsun Sunny Coupe",
+      "year": "2026",
+      "series": "Compact Kings",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "2019 Audi TT Safari",
+      "year": "2026",
+      "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "3-Window '34",
@@ -140,6 +158,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Ferrari F2004",
+      "year": "2026",
+      "series": "HW Starting Grid",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Fiat 500C",
       "year": "2026",
       "series": "",
@@ -167,6 +191,12 @@
       "name": "Ford Stake Bed Truck",
       "year": "1993",
       "series": ""
+    },
+    {
+      "name": "Go-Realla-Fast",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Good Humor Truck",
@@ -223,6 +253,18 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Bywayman_WtBluCT.JPG"
     },
     {
+      "name": "Project Twin Mill",
+      "year": "2026",
+      "series": "Cool Classics",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Ridge Crest GT",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Street Roader",
       "year": "1993",
       "series": "",
@@ -244,6 +286,12 @@
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Tractor_Red.JPG"
+    },
+    {
+      "name": "Uncertain-T",
+      "year": "2026",
+      "series": "Rod Squad",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     }
   ],
   "dataUrl": "https://raw.githubusercontent.com/rajavardhan043/DiecastApp/main/src/data/carLookup.json"
