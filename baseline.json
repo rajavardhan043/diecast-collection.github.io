@@ -3662,6 +3662,12 @@
   },
   {
     "name": "'69 Camaro Convertible",
+    "year": "2012",
+    "series": "",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2012-MMGM-69Camaro-Black.jpg"
+  },
+  {
+    "name": "'69 Camaro Convertible",
     "year": "2022",
     "series": "Muscle Mania"
   },
@@ -16947,6 +16953,12 @@
     "series": ""
   },
   {
+    "name": "Fiat 124 bis",
+    "year": "2027",
+    "series": "HW Dream Garage",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "Fiat 500",
     "year": "2008",
     "series": ""
@@ -20217,6 +20229,12 @@
     "name": "HW Roll Cage",
     "year": "2024",
     "series": "HW Dirt"
+  },
+  {
+    "name": "HW Test Ride",
+    "year": "2026",
+    "series": "",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "HW Ultimate T-Rex Transporter",

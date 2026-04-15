@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "lastYear": "2026",
+  "version": 12,
+  "lastYear": "2027",
   "entries": [
     {
       "name": "'11 Corvette Grand Sport",
@@ -37,6 +37,12 @@
       "year": "2026",
       "series": "HW Torque",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'69 Camaro Convertible",
+      "year": "2012",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2012-MMGM-69Camaro-Black.jpg"
     },
     {
       "name": "'70 Buick GSX",
@@ -164,6 +170,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Fiat 124 bis",
+      "year": "2027",
+      "series": "HW Dream Garage",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Fiat 500C",
       "year": "2026",
       "series": "",
@@ -209,6 +221,12 @@
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Gulch_Stepper_BrtYel.JPG"
+    },
+    {
+      "name": "HW Test Ride",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Jaguar XJC V12 Coupe",
