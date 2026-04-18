@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "lastYear": "2027",
   "entries": [
     {
@@ -10,6 +10,12 @@
     },
     {
       "name": "'21 Ford Bronco",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'23 Ram 1500",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
@@ -61,6 +67,12 @@
       "year": "2011",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/70_ford_mustang_mach_1_2011_yellow.png"
+    },
+    {
+      "name": "'72 Datsun Sunny Coupe",
+      "year": "2026",
+      "series": "Compact Kings",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "'82 Toyota Supra",
@@ -116,6 +128,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Aston Martin DB5 Safari",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "ATV",
       "year": "2005",
       "series": "",
@@ -137,6 +155,12 @@
       "name": "BMW M4 GT3",
       "year": "2026",
       "series": "HW Starting Grid",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Braille Racer - Deora II",
+      "year": "2027",
+      "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -253,6 +277,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mercedes_Benz_Unimog_TanCTW.JPG"
     },
     {
+      "name": "Mickey Mouse's Car",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Mountain Mauler",
       "year": "2026",
       "series": "Hot Wheels Let's Race",
@@ -283,6 +313,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Salt Streaker",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Street Roader",
       "year": "1993",
       "series": "",
@@ -292,6 +328,12 @@
       "name": "Test Car 2027",
       "year": "2027",
       "series": "Test Series"
+    },
+    {
+      "name": "Tooned Bone Shaker",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Toyota AE86 Sprinter Trueno",
@@ -306,9 +348,21 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Tractor_Red.JPG"
     },
     {
+      "name": "Uncertain T",
+      "year": "2026",
+      "series": "Rod Squad",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Uncertain-T",
       "year": "2026",
       "series": "Rod Squad",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Vanster Rallye",
+      "year": "2026",
+      "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     }
   ],
