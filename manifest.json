@@ -1,11 +1,17 @@
 {
-  "version": 13,
+  "version": 14,
   "lastYear": "2027",
   "entries": [
     {
       "name": "'11 Corvette Grand Sport",
       "year": "2026",
       "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'16 Camaro SS",
+      "year": "2026",
+      "series": "HW Torque",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
