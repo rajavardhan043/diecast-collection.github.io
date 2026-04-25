@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "lastYear": "2027",
   "entries": [
     {
@@ -170,6 +170,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Bully Goat",
+      "year": "2026",
+      "series": "HW Torque",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Bywayman",
       "year": "1993",
       "series": "",
@@ -177,6 +183,12 @@
     },
     {
       "name": "Click Shift",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Custom Vanster 4WD",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
@@ -191,6 +203,12 @@
       "name": "Duck N' Roll",
       "year": "2026",
       "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "El Segundo Coupé Clip",
+      "year": "2026",
+      "series": "Experimotors",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -289,10 +307,22 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Mod Mill",
+      "year": "2026",
+      "series": "Cool Classics",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Mountain Mauler",
       "year": "2026",
       "series": "Hot Wheels Let's Race",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Nissan Silvia S-15",
+      "year": "2011",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Nissan_Silvia_%28S15%29_%28800x600%29.jpg"
     },
     {
       "name": "Nissan Skyline GT-R",
@@ -313,6 +343,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Punk Rod",
+      "year": "2026",
+      "series": "Team Wheels",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Ridge Crest GT",
       "year": "2026",
       "series": "",
@@ -325,10 +361,34 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Spider-Mobile",
+      "year": "2026",
+      "series": "Screen Time",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Street Roader",
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Street_Roader_Grn.JPG"
+    },
+    {
+      "name": "Street Shaker",
+      "year": "2026",
+      "series": "Trophy Case",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Street Shrieker",
+      "year": "2026",
+      "series": "Hot Wheels Let's Race",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/StreetShrieker.jpg"
+    },
+    {
+      "name": "Sweet Driver",
+      "year": "2026",
+      "series": "Sweet Rides",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Test Car 2027",

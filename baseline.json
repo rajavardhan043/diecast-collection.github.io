@@ -10908,6 +10908,12 @@
     "series": "HW Art Cars"
   },
   {
+    "name": "Bully Goat",
+    "year": "2026",
+    "series": "HW Torque",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "Bumblebee",
     "year": "2024",
     "series": "HW Screen Time"
@@ -13920,6 +13926,12 @@
     "series": ""
   },
   {
+    "name": "Custom Vanster 4WD",
+    "year": "2026",
+    "series": "",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "Custom Volkswagen",
     "year": "1968",
     "series": ""
@@ -15705,6 +15717,12 @@
     "name": "El Segundo Coupe",
     "year": "2026",
     "series": "HW Fan Driven"
+  },
+  {
+    "name": "El Segundo Coupé Clip",
+    "year": "2026",
+    "series": "Experimotors",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "El Segundo Rallye",
@@ -23782,6 +23800,12 @@
     "series": "Muscle Mania"
   },
   {
+    "name": "Mod Mill",
+    "year": "2026",
+    "series": "Cool Classics",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "Mod Rod",
     "year": "2019",
     "series": "Factory Fresh"
@@ -24771,6 +24795,12 @@
     "name": "Nissan Silvia",
     "year": "2021",
     "series": "HW J-Imports"
+  },
+  {
+    "name": "Nissan Silvia S-15",
+    "year": "2011",
+    "series": "",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Nissan_Silvia_%28S15%29_%28800x600%29.jpg"
   },
   {
     "name": "Nissan Silvia S15",
@@ -27324,6 +27354,12 @@
     "name": "Punk Rod",
     "year": "2025",
     "series": "HW Modified"
+  },
+  {
+    "name": "Punk Rod",
+    "year": "2026",
+    "series": "Team Wheels",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "Purple Passion",
@@ -30863,6 +30899,12 @@
     "series": "HW Screen Time"
   },
   {
+    "name": "Spider-Mobile",
+    "year": "2026",
+    "series": "Screen Time",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "Split Decision",
     "year": "2005",
     "series": ""
@@ -31369,9 +31411,21 @@
     "series": ""
   },
   {
+    "name": "Street Shaker",
+    "year": "2026",
+    "series": "Trophy Case",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "Street Shrieker",
     "year": "2025",
     "series": "Hot Wheels Let's Race"
+  },
+  {
+    "name": "Street Shrieker",
+    "year": "2026",
+    "series": "Hot Wheels Let's Race",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/StreetShrieker.jpg"
   },
   {
     "name": "Street Stealth",
@@ -32067,6 +32121,12 @@
     "name": "Sweet Driver",
     "year": "2023",
     "series": "Sweet Rides"
+  },
+  {
+    "name": "Sweet Driver",
+    "year": "2026",
+    "series": "Sweet Rides",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "Sweet Stocker",
