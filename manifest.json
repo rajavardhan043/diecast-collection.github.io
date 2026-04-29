@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "lastYear": "2027",
   "entries": [
     {
@@ -10,6 +10,12 @@
     },
     {
       "name": "'16 Camaro SS",
+      "year": "2026",
+      "series": "HW Torque",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'18 Camaro SS",
       "year": "2026",
       "series": "HW Torque",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
