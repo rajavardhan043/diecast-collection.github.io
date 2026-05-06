@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "lastYear": "2027",
   "entries": [
     {
@@ -79,6 +79,12 @@
       "year": "2011",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/70_ford_mustang_mach_1_2011_yellow.png"
+    },
+    {
+      "name": "'70 Plymouth AAR Cuda",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "'72 Datsun Sunny Coupe",
@@ -298,6 +304,12 @@
       "name": "Mad Drip",
       "year": "2026",
       "series": "Sweet Rides",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Mad Manga",
+      "year": "2026",
+      "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
