@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "lastYear": "2027",
   "entries": [
     {
@@ -18,6 +18,12 @@
       "name": "'18 Camaro SS",
       "year": "2026",
       "series": "HW Torque",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'19 Mercedes-Benz A-Class",
+      "year": "2026",
+      "series": "Compact Kings",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -48,6 +54,18 @@
       "name": "'63 Chevy II",
       "year": "2026",
       "series": "Compact Kings",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'67 Pontiac Firebird 400",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'68 Mercury Cougar",
+      "year": "2026",
+      "series": "HW Torque",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -200,6 +218,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Custom '62 Chevy Pickup",
+      "year": "2026",
+      "series": "Rod Squad",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Custom Vanster 4WD",
       "year": "2026",
       "series": "",
@@ -246,6 +270,12 @@
       "year": "2026",
       "series": "Truckin' Along",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FordSupertruck.jpg"
+    },
+    {
+      "name": "Ford Model A Custom '31",
+      "year": "2026",
+      "series": "Rod Squad",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Ford Performance SuperVan 4",
@@ -322,6 +352,12 @@
       "name": "Mickey Mouse's Car",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Mini JCW Electric",
+      "year": "2026",
+      "series": "Then and Now",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {

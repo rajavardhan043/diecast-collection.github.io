@@ -1118,6 +1118,12 @@
     "series": "HW Hatchbacks"
   },
   {
+    "name": "'19 Mercedes-Benz A-Class",
+    "year": "2026",
+    "series": "Compact Kings",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "'20 Dodge Charger Hellcat",
     "year": "2023",
     "series": "Then and Now"
@@ -3263,6 +3269,12 @@
     "series": ""
   },
   {
+    "name": "'67 Pontiac Firebird 400",
+    "year": "2026",
+    "series": "",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "'67 Pontiac GTO",
     "year": "2000",
     "series": ""
@@ -3551,6 +3563,12 @@
     "name": "'68 Mercury Cougar",
     "year": "2022",
     "series": "Muscle Mania"
+  },
+  {
+    "name": "'68 Mercury Cougar",
+    "year": "2026",
+    "series": "HW Torque",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "'68 Mustang",
@@ -13558,6 +13576,12 @@
     "series": ""
   },
   {
+    "name": "Custom '62 Chevy Pickup",
+    "year": "2026",
+    "series": "Rod Squad",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "Custom '64 Galaxie",
     "year": "2009",
     "series": ""
@@ -17824,6 +17848,12 @@
     "name": "Ford Model A Custom '31",
     "year": "2025",
     "series": "HW Dirt"
+  },
+  {
+    "name": "Ford Model A Custom '31",
+    "year": "2026",
+    "series": "Rod Squad",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "Ford Mustang",
@@ -23681,6 +23711,12 @@
     "name": "Mini Cooper S Challenge",
     "year": "2011",
     "series": "2011 New Models"
+  },
+  {
+    "name": "Mini JCW Electric",
+    "year": "2026",
+    "series": "Then and Now",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "Mini Truck",
