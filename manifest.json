@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "lastYear": "2027",
   "entries": [
     {
@@ -102,6 +102,12 @@
       "name": "'70 Plymouth AAR Cuda",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'71 Lamborghini Miura SV",
+      "year": "2026",
+      "series": "Cool Classics",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
