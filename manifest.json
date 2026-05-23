@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "lastYear": "2027",
   "entries": [
     {
@@ -60,6 +60,12 @@
       "name": "'67 Pontiac Firebird 400",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'68 Corvette - Gas Monkey Garage",
+      "year": "2026",
+      "series": "Screen Time",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -129,6 +135,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'96 Dodge Viper GTS",
+      "year": "2026",
+      "series": "HW Torque",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "1963 Ford Galaxie",
       "year": "2026",
       "series": "Cool Classics",
@@ -156,6 +168,12 @@
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/3_Window_34_WhtPrpBW.JPG"
+    },
+    {
+      "name": "Alfa Romeo Giulia TI Super",
+      "year": "2026",
+      "series": "Cool Classics",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Amaru GTC",
@@ -322,6 +340,12 @@
       "name": "HW Test Ride",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Hyper Rocker",
+      "year": "2026",
+      "series": "HW Dirt",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
