@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "lastYear": "2027",
   "entries": [
     {
@@ -39,10 +39,93 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'32 Ford",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/216.jpg"
+    },
+    {
+      "name": "'32 Ford Delivery",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/32forddelivery.black.jpg"
+    },
+    {
+      "name": "'32 Ford Vicky",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/32_Ford_Vicky_blkflms.JPG"
+    },
+    {
+      "name": "'33 Ford Roadster",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/ColdBloodedIcon.jpg"
+    },
+    {
+      "name": "'33 Roadster",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/33_Ford_Roadster_Rat.JPG"
+    },
+    {
+      "name": "'37 Bugatti",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2581.jpg"
+    },
+    {
+      "name": "'38 Phantom Corsair",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/38_Phantom_Corsair_2001.jpg"
+    },
+    {
+      "name": "'40 Ford",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/40_Ford_Truck_-_02TH.jpg"
+    },
+    {
+      "name": "'40 Ford Truck",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/40sFordTruck_Harley5.JPG"
+    },
+    {
+      "name": "'40s Woody",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/40woodi.blue.jpg"
+    },
+    {
+      "name": "'41 Willys",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2559.jpg"
+    },
+    {
+      "name": "'55 Chevy",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/55_Chevy_FR.JPG"
+    },
+    {
       "name": "'55 Chevy",
       "year": "2026",
       "series": "Cool Classics",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'56 Ford",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001-155a.jpg"
+    },
+    {
+      "name": "'57 Cadillac Eldorado Brougham",
+      "year": "2002",
+      "series": ""
     },
     {
       "name": "'57 Chevy",
@@ -51,10 +134,100 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/M1992-01.jpg"
     },
     {
+      "name": "'57 Chevy",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/57chevy.black.jpg"
+    },
+    {
+      "name": "'57 Roadster",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/052.jpg"
+    },
+    {
+      "name": "'57 Roadster",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/57_Roadster_-_02TH.jpg"
+    },
+    {
+      "name": "'57 T-Bird",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/57tbird.yellow.jpg"
+    },
+    {
+      "name": "'59 Cadillac",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/59_Caddy_GrnL.JPG"
+    },
+    {
+      "name": "'59 Chevy Impala",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/ChevyImpaladel59-brownPOSSE-96.jpg"
+    },
+    {
+      "name": "'59 Impala",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/%2759_Chevy_Impala_BlkLW.JPG"
+    },
+    {
       "name": "'63 Chevy II",
       "year": "2026",
       "series": "Compact Kings",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'63 Corvette",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Splitwindow.jpg"
+    },
+    {
+      "name": "'63 T-Bird",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ford_T-Bird_1963_%282001_mainline_WSP_variation%29.jpg"
+    },
+    {
+      "name": "'64 Lincoln Continental",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/%2764_Lincoln_Continental_-_0120df.jpg"
+    },
+    {
+      "name": "'64 Riviera",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/042.jpg"
+    },
+    {
+      "name": "'65 Corvette",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/65_Corvette_-_01TH.jpg"
+    },
+    {
+      "name": "'65 Corvette",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/067.jpg"
+    },
+    {
+      "name": "'65 Impala Lowrider",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2010-05-13_11.50.21.jpg"
+    },
+    {
+      "name": "'67 Dodge Charger",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/67_Dodge_Charger_-_01TH.jpg"
     },
     {
       "name": "'67 Pontiac Firebird 400",
@@ -63,16 +236,40 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'67 Pontiac GTO",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/67_Pontiac_GTO_YelR.JPG"
+    },
+    {
       "name": "'68 Corvette - Gas Monkey Garage",
       "year": "2026",
       "series": "Screen Time",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'68 El Camino",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/69_El_Camino_Org.JPG"
+    },
+    {
+      "name": "'68 El Camino",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/082.jpg"
+    },
+    {
       "name": "'68 Mercury Cougar",
       "year": "2026",
       "series": "HW Torque",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'68 Mustang",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/67mustang.grey.jpg"
     },
     {
       "name": "'68 Shelby GT500",
@@ -93,6 +290,18 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'70 Chevelle SS",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/70_Chevelle_SS_Blue.JPG"
+    },
+    {
+      "name": "'70 Chevelle SS",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/70chevelle.yellow.jpg"
+    },
+    {
       "name": "'70 Dodge Charger",
       "year": "2026",
       "series": "Tooned",
@@ -109,6 +318,18 @@
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'70 Plymouth Roadrunner",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Roadrunner_AGENTAIR_11.jpg"
+    },
+    {
+      "name": "'70 Plymouth Roadrunner",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Roadrunner.jpg"
     },
     {
       "name": "'71 Lamborghini Miura SV",
@@ -141,15 +362,113 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'96 Mustang",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/114.jpg"
+    },
+    {
+      "name": "'97 Corvette",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/97_Corvette_Slv.JPG"
+    },
+    {
+      "name": "'97 Corvette",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/068.jpg"
+    },
+    {
+      "name": "'99 Mustang",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mustang_99_2001.jpg"
+    },
+    {
+      "name": "1/4 Mile Coupe",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/14_Mile_Coupe_GrnL.JPG"
+    },
+    {
+      "name": "1931 Duesenberg Model J",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Doozie_%2731_1.png"
+    },
+    {
+      "name": "1935 Cadillac",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Cadillac_Classic_Caddy_%2735.jpg"
+    },
+    {
+      "name": "1935 Cadillac",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "1936 Cord",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/1936_Cord.jpg"
+    },
+    {
+      "name": "1936 Cord",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "1940 Ford Coupe",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/40fordcoupe.jpg"
+    },
+    {
+      "name": "1957 Cadillac Eldorado Brougham",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/57CadillacEldorado_Pride.JPG"
+    },
+    {
       "name": "1963 Ford Galaxie",
       "year": "2026",
       "series": "Cool Classics",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "1963 T-Bird",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/63tbird.yellow.jpg"
+    },
+    {
+      "name": "1968 Cougar",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/5sptagridecougar.jpg"
+    },
+    {
+      "name": "1969 Pontiac GTO Judge",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/1969_Pontiac_GTO_BlkR.JPG"
+    },
+    {
+      "name": "1970 Plymouth Road Runner",
+      "year": "2004",
+      "series": ""
+    },
+    {
       "name": "1970 Pontiac Firebird",
       "year": "2026",
       "series": "Red Edition"
+    },
+    {
+      "name": "1971 Plymouth GTX",
+      "year": "2001",
+      "series": ""
     },
     {
       "name": "1972 Datsun Sunny Coupe",
@@ -158,10 +477,27 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "1997 Corvette",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "2001 Mini Cooper",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/BMW_Mini_Cooper_2001.jpg"
+    },
+    {
       "name": "2019 Audi TT Safari",
       "year": "2026",
       "series": "HW Dirt",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "25th Anniversary Lamborghini Countach",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lamborghini_Countanch_25th._other_side_2.jpg"
     },
     {
       "name": "3-Window '34",
@@ -170,16 +506,88 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/3_Window_34_WhtPrpBW.JPG"
     },
     {
+      "name": "3-Window '34",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/3window34.green.jpg"
+    },
+    {
+      "name": "3-Window '34",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/080.jpg"
+    },
+    {
+      "name": "40 Somethin'",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/40_Somethin_YelR.JPG"
+    },
+    {
+      "name": "8 Crate",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lucky_Charms_8_Crate_-_02067ef.jpg"
+    },
+    {
+      "name": "Aeroflash",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Aeroflash-mainline-2001-229.jpg"
+    },
+    {
+      "name": "Aeroflash",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Aeroflash_CIMG1027.JPG"
+    },
+    {
       "name": "Alfa Romeo Giulia TI Super",
       "year": "2026",
       "series": "Cool Classics",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Altered State",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/AlteredState_04TH.JPG"
+    },
+    {
       "name": "Amaru GTC",
       "year": "2026",
       "series": "HW Mods",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Ambulance",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ambulance_Fossil.JPG"
+    },
+    {
+      "name": "Anglia Panel",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Anglia_Panel_Truck_Yel.JPG"
+    },
+    {
+      "name": "Arachnorod",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Arachnorod137.jpg"
+    },
+    {
+      "name": "Armored Car",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Armored_Truck_-_6991cf.jpg"
+    },
+    {
+      "name": "Armored Truck",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Armored_truck_2002_fed_fleet_series.JPG"
     },
     {
       "name": "Aston Martin Aramco Formula One Team",
@@ -200,10 +608,72 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/ATV_CIMG1201.JPG"
     },
     {
+      "name": "Auburn 852",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Auborn_852_1.jpg"
+    },
+    {
+      "name": "Audacious",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Audacious.jpg"
+    },
+    {
+      "name": "Audi Avus",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001_Avus_Quattro.jpg"
+    },
+    {
+      "name": "Austin Healey",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Austin_healey_red_white_2001.JPG"
+    },
+    {
+      "name": "Backdraft",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Backdraft",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2004-Tackaces_Backdraft.jpg"
+    },
+    {
       "name": "Baja Bug",
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Baja_Bug_RedGltr.JPG"
+    },
+    {
+      "name": "Baja Bug",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/174.jpg"
+    },
+    {
+      "name": "Ballistik",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Big Thunder",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Blast Lane",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Blast_Lane_-_01TH.jpg"
+    },
+    {
+      "name": "Blast Lane",
+      "year": "2004",
+      "series": ""
     },
     {
       "name": "Blazer 4×4",
@@ -212,10 +682,33 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Blazer_4x4_BluGltr.JPG"
     },
     {
+      "name": "Blimp",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2530.jpg"
+    },
+    {
+      "name": "BMW 850i",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/BMW_850_FR.JPG"
+    },
+    {
       "name": "BMW M4 GT3",
       "year": "2026",
       "series": "HW Starting Grid",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "BMW Z3 Roadster",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2569.jpg"
+    },
+    {
+      "name": "Boom Box",
+      "year": "2004",
+      "series": ""
     },
     {
       "name": "Braille Racer - Deora II",
@@ -236,10 +729,169 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Power_Plower_BetGrnCT.JPG"
     },
     {
+      "name": "Bywayman",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Bywayman_main.jpg"
+    },
+    {
+      "name": "Cabbin' Fever",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Cabbin_Fever_-_01TH.jpg"
+    },
+    {
+      "name": "Cadillac Cien",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/CadillacCien_04TH.JPG"
+    },
+    {
+      "name": "Cadillac Escalade",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Cadaillac.jpg"
+    },
+    {
+      "name": "Cadillac LMP",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/013.jpg"
+    },
+    {
+      "name": "Camaro 1995",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Cereal_Crunchers_Camaro_1995.jpg"
+    },
+    {
+      "name": "Camaro Z-28",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Camaroz28.red1.jpg"
+    },
+    {
+      "name": "Camaro Z28",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Camaroz28.purple.jpg"
+    },
+    {
+      "name": "Cat-A-Pult",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Chaparral 2",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/DSCN3360-1-.jpg"
+    },
+    {
+      "name": "Chevy 1957",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/57_Chevy_USA.JPG"
+    },
+    {
+      "name": "Chevy Nomad",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/55nomad.orange.jpg"
+    },
+    {
+      "name": "Chevy Pick-Up",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Chevy1500.yellow.jpg"
+    },
+    {
+      "name": "Chevy Pro Stock Truck",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Chevy_pro_stock_truck_neon_yellow_skin_deep_series.JPG"
+    },
+    {
+      "name": "Chevy Pro Stock Truck",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Prostocktruck.jpg"
+    },
+    {
+      "name": "Chevy Stocker",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Chevy_Stocker_WhtGld.JPG"
+    },
+    {
+      "name": "Chevy Stocker",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Chevy_Stocker.jpg"
+    },
+    {
+      "name": "Chrysler Pronto",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Star_Spangled_Chrysler_Pronto_-_7063df.jpg"
+    },
+    {
       "name": "Click Shift",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Corvette",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/80s_Corvette_orange_pearl_3sp_2001.JPG"
+    },
+    {
+      "name": "Corvette 1963",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Corvette Sting Ray",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Corvette.yellow.jpg"
+    },
+    {
+      "name": "Corvette Stingray",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Corvette_Stingray_BlkFlms.JPG"
+    },
+    {
+      "name": "Corvette Stingray III",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/CorvetteStingray3B3814.jpg"
+    },
+    {
+      "name": "Cunningham C4R",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Cunningham_2001_FE_051.jpg"
+    },
+    {
+      "name": "Cunningham C4R",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Cunningham_2004_Pride_Rides_176.jpg"
+    },
+    {
+      "name": "Custom '59 Cadillac",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Custom '59 Cadillac",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/143.jpg"
     },
     {
       "name": "Custom '62 Chevy Pickup",
@@ -248,16 +900,155 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Custom '69 Chevy",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Custom Cougar",
+      "year": "2002",
+      "series": ""
+    },
+    {
       "name": "Custom Vanster 4WD",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Dairy Delivery",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Big_Lou%27s_Dairy_Delivery_-_7004df.jpg"
+    },
+    {
+      "name": "Dairy Delivery",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Dairydelivery.yellow.jpg"
+    },
+    {
+      "name": "Demon",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/The_Demon_BlkL.JPG"
+    },
+    {
+      "name": "Deora",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Deora_-_01TH.jpg"
+    },
+    {
+      "name": "Deora",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Deora_CIMG1053.JPG"
+    },
+    {
+      "name": "Deora II",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001_Open_Vamp_Deora_II-BBB01.jpg"
+    },
+    {
+      "name": "Deora II",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/081.jpg"
+    },
+    {
+      "name": "Deuce Roadster",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Deuce_Roadster_Prp.JPG"
+    },
+    {
+      "name": "Deuce Roadster",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Deuce_Roadster_CIMG0465.JPG"
+    },
+    {
+      "name": "Deuce Roadster",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Dodge Charger R/T",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Animecharger.jpg"
+    },
+    {
+      "name": "Dodge Charger R/T",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Dodge_Charger_RT_Black.JPG"
+    },
+    {
+      "name": "Dodge Daytona Charger",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/%2770_dodge_daytona_charger_rod_squadron_series_2001.JPG"
+    },
+    {
+      "name": "Dodge Power Wagon",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Dodge_Power_Wagon_black_metallic_2001.JPG"
+    },
+    {
+      "name": "Dodge Power Wagon",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/P1100246c_1000.jpg"
+    },
+    {
+      "name": "Dodge Sidewinder",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Dodge_Sidewinder_Company_Cars_3SP.jpg"
+    },
+    {
+      "name": "Dodge Viper GTS-R",
+      "year": "2001",
+      "series": ""
+    },
+    {
+      "name": "Dodge Viper RT/10",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Viper_RT10_-_01_Cyborg_City_5-Pack.JPG"
+    },
+    {
       "name": "Double Demon",
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Double_Demon_YelUH.JPG"
+    },
+    {
+      "name": "Double Demon",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Demon.jpg"
+    },
+    {
+      "name": "Double Vision",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Double_Vision_green_clover.jpg"
+    },
+    {
+      "name": "Double Vision",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Dragster",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2582.jpg"
     },
     {
       "name": "Duck N' Roll",
@@ -272,10 +1063,147 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Enforcer",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Super_Cannon_MtGrn.JPG"
+    },
+    {
+      "name": "Enforcer",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Evil Twin",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/028.jpg"
+    },
+    {
+      "name": "Evil Twin",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Express Lane",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/P1270988.jpg"
+    },
+    {
+      "name": "Fandango",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/048.jpg"
+    },
+    {
+      "name": "Fandango",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/141.jpg"
+    },
+    {
+      "name": "Fat Fendered '40",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Fat_Fendered_%2740_-_02TH.jpg"
+    },
+    {
+      "name": "Ferrari 156",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ferrari_156_Red.JPG"
+    },
+    {
+      "name": "Ferrari 250",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FERRARI_250_002.jpg"
+    },
+    {
+      "name": "Ferrari 308",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ferrari_308_2.png"
+    },
+    {
+      "name": "Ferrari 308",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Race_Bait_308_FRL.JPG"
+    },
+    {
+      "name": "Ferrari 333 SP",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ferrari_333_SP.jpg"
+    },
+    {
+      "name": "Ferrari 333 SP",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Ferrari 360 Modena",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ferrari_Modena_2.png"
+    },
+    {
+      "name": "Ferrari 360 Modena",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Ferrari 456M",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ferrari_456M_BluL.JPG"
+    },
+    {
+      "name": "Ferrari 456M",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Ferrari 550 Maranello",
+      "year": "2004",
+      "series": ""
+    },
+    {
       "name": "Ferrari F2004",
       "year": "2026",
       "series": "HW Starting Grid",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Ferrari F355",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FERRARI_F355_001.jpg"
+    },
+    {
+      "name": "Ferrari F355 Challenge",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Ferrari F40",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ferrari_F40_2001_ML_209.jpg"
+    },
+    {
+      "name": "Ferrari F50",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ferrari_F50_14.JPG"
+    },
+    {
+      "name": "Ferrari P4",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/025.jpg"
     },
     {
       "name": "Fiat 124 bis",
@@ -290,10 +1218,76 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Fire-Eater",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001_fire_eater.jpg"
+    },
+    {
+      "name": "Firebird",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM8192.jpg"
+    },
+    {
+      "name": "Firebird Funny Car",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Firebird_Funny_Car_SlvL.JPG"
+    },
+    {
+      "name": "Firebird Funny Car",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/IMG_8977.jpg"
+    },
+    {
+      "name": "Flame Stopper",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/188.jpg"
+    },
+    {
+      "name": "Flashfire",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Flashfire16501.jpg"
+    },
+    {
+      "name": "Ford 1932",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/32Ford04TatRods.jpg"
+    },
+    {
+      "name": "Ford Escort Rally",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Escort_Rally.jpg"
+    },
+    {
       "name": "Ford F-150 Lightning SuperTruck",
       "year": "2026",
       "series": "Truckin' Along",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FordSupertruck.jpg"
+    },
+    {
+      "name": "Ford Focus",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/037.jpg"
+    },
+    {
+      "name": "Ford GT-40",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2556.jpg"
+    },
+    {
+      "name": "Ford GT-90",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Fordgt90.jpg"
     },
     {
       "name": "Ford Model A Custom '31",
@@ -314,9 +1308,63 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FirstResponseSupervan.jpg"
     },
     {
+      "name": "Ford Stake Bed",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FordStakeBed_Blue_2001.JPG"
+    },
+    {
       "name": "Ford Stake Bed Truck",
       "year": "1993",
       "series": ""
+    },
+    {
+      "name": "Ford Thunderbolt",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/046.jpg"
+    },
+    {
+      "name": "Ford Vicky 1932",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FORD_VICKY_1932_001.jpg"
+    },
+    {
+      "name": "Fork Lift",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2538.jpg"
+    },
+    {
+      "name": "Fright Bike",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/033.jpg"
+    },
+    {
+      "name": "Funny Car",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/084.jpg"
+    },
+    {
+      "name": "Garbage Truck",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Recycling_Truck_FR.JPG"
+    },
+    {
+      "name": "GM Ultralite",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/GM_Ultralite_FR.JPG"
+    },
+    {
+      "name": "Go Kart",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001_Hot_Wheels_5SP_MGW.jpg"
     },
     {
       "name": "Go-Realla-Fast",
@@ -331,10 +1379,128 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Good_Humor_Truck_LimeGrn.JPG"
     },
     {
+      "name": "Grave Rave Wagon",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Delivery_grave.JPG"
+    },
+    {
+      "name": "Greased Lightnin'",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/GreasedLightin01RodSquadronPR5.jpg"
+    },
+    {
+      "name": "Ground FX",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/06042011336.jpg"
+    },
+    {
+      "name": "GT Racer",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/GT_Racer_blue_2001.JPG"
+    },
+    {
+      "name": "GT-03",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/GT03_04TH.JPG"
+    },
+    {
       "name": "Gulch Stepper",
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Gulch_Stepper_BrtYel.JPG"
+    },
+    {
+      "name": "Gulch Stepper",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Gulch_Stepper_YelFR.JPG"
+    },
+    {
+      "name": "Hammered Coupe",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Hammered_Coupe_-_01TH.jpg"
+    },
+    {
+      "name": "Hammered Coupe",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Hammered_Coupe_2002_Trump_Cars.jpg"
+    },
+    {
+      "name": "Hammered Coupe",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Hammered_Coupe_BlkR.JPG"
+    },
+    {
+      "name": "Honda Civic Si",
+      "year": "2001",
+      "series": ""
+    },
+    {
+      "name": "Hooligan",
+      "year": "2001",
+      "series": ""
+    },
+    {
+      "name": "Hooligan",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Hooligan_GrnR.JPG"
+    },
+    {
+      "name": "Hooligan",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Tat_rods_hooligan.jpg"
+    },
+    {
+      "name": "Hot Seat",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Th_4-15-08004.jpg"
+    },
+    {
+      "name": "Hot Seat",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/133.jpg"
+    },
+    {
+      "name": "Hot Wheels 500",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/No_Fear_Race_Car_FR.JPG"
+    },
+    {
+      "name": "Hummer",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Humvee.jpg"
+    },
+    {
+      "name": "Humvee",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/162.jpg"
+    },
+    {
+      "name": "HW Prototype 12",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2605.jpg"
+    },
+    {
+      "name": "HW Prototype 12",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HW_Prototype_12_CIMG1055.JPG"
     },
     {
       "name": "HW Test Ride",
@@ -343,10 +1509,100 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Hydroplane",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Hydroplane_-2002_Edition-_%28White%29.jpg"
+    },
+    {
+      "name": "Hyper Mite",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/029.jpg"
+    },
+    {
       "name": "Hyper Rocker",
       "year": "2026",
       "series": "HW Dirt",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Hyperliner",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/014.jpg"
+    },
+    {
+      "name": "Hyundai Spyder Concept",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/049.02.jpg"
+    },
+    {
+      "name": "Hyundai Spyder Concept",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HYUNDAI_SPYDER_CONCEPT.jpg"
+    },
+    {
+      "name": "Hyundai Tiburon",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Hyundai_Tiburon_-_Track_Aces.jpg"
+    },
+    {
+      "name": "I Candy",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Icandy02.jpg"
+    },
+    {
+      "name": "I Candy",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/ICandy_Aces.JPG"
+    },
+    {
+      "name": "Ice Cream Truck",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Icecream.jpg"
+    },
+    {
+      "name": "Ice Cream Truck",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/057.jpg"
+    },
+    {
+      "name": "Isuzu VehiCROSS",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2586.jpg"
+    },
+    {
+      "name": "Jaded",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/034.jpg"
+    },
+    {
+      "name": "Jaded",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/150.jpg"
+    },
+    {
+      "name": "Jaguar D-Type",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Jaguar_D-Type_2001_ML_184.jpg"
+    },
+    {
+      "name": "Jaguar XJ220",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Jaguar_XJ220_-_Company_Car.JPG"
     },
     {
       "name": "Jaguar XJC V12 Coupe",
@@ -355,10 +1611,127 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Jaguar XK8",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Jaguar_XK8_2001_161.jpg"
+    },
+    {
+      "name": "Jeep Willys Coupe",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/41ProModWillys_SkinDeep.JPG"
+    },
+    {
+      "name": "Jester",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/017.02.jpg"
+    },
+    {
+      "name": "Jester",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Jester.jpg"
+    },
+    {
+      "name": "Jet Threat 3.0",
+      "year": "2001",
+      "series": ""
+    },
+    {
+      "name": "Krazy 8s",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Krazy_8s_BluR.JPG"
+    },
+    {
+      "name": "Krazy 8s",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/DSCF0005.jpg"
+    },
+    {
+      "name": "Krazy 8s",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/DSCF7595.jpg"
+    },
+    {
+      "name": "La Troca",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/015.jpg"
+    },
+    {
+      "name": "La Troca",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/La_Troca_-_02TH.jpg"
+    },
+    {
+      "name": "Lakester",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lakester_camouflage.jpg"
+    },
+    {
+      "name": "Lamborghini Diablo",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lamborghini_diablo_purple_metallic_2000_mainline.JPG"
+    },
+    {
+      "name": "Lamborghini Murciélago",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Fe2e_3.jpg"
+    },
+    {
+      "name": "Lancia Stratos",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lancia.red.jpg"
+    },
+    {
       "name": "Lil' Roar",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Limozeen",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Limozeen_-_2001_Turbo_Taxi_Series_-2of4_-_SB_Wheels_1a.JPG"
+    },
+    {
+      "name": "Lincoln Continental 1964",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Lotus Elise 340R",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lotus_elise_340r_red_2001_mainline.JPG"
+    },
+    {
+      "name": "Lotus Esprit",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/044.jpg"
+    },
+    {
+      "name": "Lotus Project M250",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lotus_M250_grey_2001_First_Edition.JPG"
+    },
+    {
+      "name": "Lotus Project M250",
+      "year": "2002",
+      "series": ""
     },
     {
       "name": "Mad Drip",
@@ -373,10 +1746,63 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Maelstrom",
+      "year": "2001",
+      "series": ""
+    },
+    {
+      "name": "Mega-Duty",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mega-Duty_Slv.JPG"
+    },
+    {
+      "name": "Mega-Duty",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/100_6631.jpg"
+    },
+    {
+      "name": "Mercedes C-Class",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/171.jpg"
+    },
+    {
+      "name": "Mercedes-Benz SLK",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mercedes_SLK.jpg"
+    },
+    {
       "name": "Mercedes-Benz Unimog",
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mercedes_Benz_Unimog_TanCTW.JPG"
+    },
+    {
+      "name": "Mercedes-Benz Unimog",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mercedes_Benz_Unimog_FR.JPG"
+    },
+    {
+      "name": "Metrorail",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Red_and_White_Metrorail_-_5719cf.jpg"
+    },
+    {
+      "name": "Metrorail Nash Metropolitan",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Logo-Motive_Metrorail_-_5718cf.jpg"
+    },
+    {
+      "name": "Meyers Manx",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Meyersmanx_04TH.JPG"
     },
     {
       "name": "Mickey Mouse's Car",
@@ -385,10 +1811,28 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Mini Cooper",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mini_-_Blue_Open_Vamp.jpg"
+    },
+    {
       "name": "Mini JCW Electric",
       "year": "2026",
       "series": "Then and Now",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Mini Truck",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Minitruck.jpg"
+    },
+    {
+      "name": "Mo' Scoot",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/045.jpg"
     },
     {
       "name": "Mod Mill",
@@ -397,10 +1841,104 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Monoposto",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FEmonopostoPR5.jpg"
+    },
+    {
+      "name": "Monte Carlo Concept Car",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001_Monte_Carlo_Concept_Car.jpg"
+    },
+    {
+      "name": "Montezooma",
+      "year": "2001",
+      "series": ""
+    },
+    {
+      "name": "Morris Wagon",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Morris_Wagon_Blk.JPG"
+    },
+    {
+      "name": "Morris Wagon",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Morris_Wagon_-_2004_TH_CM5.jpg"
+    },
+    {
+      "name": "Moto-Crossed",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/MotoCrossed_2002_FE.jpg"
+    },
+    {
       "name": "Mountain Mauler",
       "year": "2026",
       "series": "Hot Wheels Let's Race",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "MS-T Suzuka",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mstsuzuka.JPG"
+    },
+    {
+      "name": "MS-T Suzuka",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mssuzuka.jpg"
+    },
+    {
+      "name": "Muscle Tone",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Muscletone_green_metallic%2C_anime_series_2001.JPG"
+    },
+    {
+      "name": "Muscle Tone",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Mustang 1965",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/StarSpangled2.jpg"
+    },
+    {
+      "name": "Mustang 1968",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/67mustang.green.jpg"
+    },
+    {
+      "name": "Mustang Mach 1",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Picture_037.jpg"
+    },
+    {
+      "name": "MX-48 Turbo",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001_mx48_turbo_Hipno_Ride.jpg"
+    },
+    {
+      "name": "MX48 Turbo",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/MX48_Turbo_silver_max_steel_2001.JPG"
+    },
+    {
+      "name": "Nash Metropolitan",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2004-157-NashMetropolitan-Black.jpg"
     },
     {
       "name": "Nissan Silvia S-15",
@@ -409,10 +1947,91 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Nissan_Silvia_%28S15%29_%28800x600%29.jpg"
     },
     {
+      "name": "Nissan Skyline",
+      "year": "2002",
+      "series": ""
+    },
+    {
       "name": "Nissan Skyline GT-R",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Nissan Z",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Old #3",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/049.jpg"
+    },
+    {
+      "name": "Olds 442",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Olds_442_-_01TH.jpg"
+    },
+    {
+      "name": "Olds Aurora GTS-1",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Oldauroragts1.blue.jpg"
+    },
+    {
+      "name": "Oldsmobile Aurora",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Oldsmobile_Aurora_yellow_2001.JPG"
+    },
+    {
+      "name": "Open Road-ster",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Open Road-ster",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Open_Road-ster_CIMG1035.JPG"
+    },
+    {
+      "name": "Oshkosh Cement Truck",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/OshkoshCementMixer134.jpg"
+    },
+    {
+      "name": "Outsider",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Outsider_Org.JPG"
+    },
+    {
+      "name": "Panoz GTR-1",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2534.jpg"
+    },
+    {
+      "name": "Panoz LMP-1 Roadster",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Panoz_LMP_1_Roadster.jpg"
+    },
+    {
+      "name": "Panoz LMP-1 Roadster S",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/021.jpg"
+    },
+    {
+      "name": "Panoz LMP-1 Roadster S",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Panoz_LMP_Roadster_S_-_02TH.jpg"
     },
     {
       "name": "Path Beater",
@@ -421,10 +2040,188 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Bywayman_WtBluCT.JPG"
     },
     {
+      "name": "Phaeton",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/PhaetonRatRF.jpg"
+    },
+    {
+      "name": "Phaeton",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Phateon.jpg"
+    },
+    {
+      "name": "Phantastique",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Phantastique_red_2001_Loco-motive_series.JPG"
+    },
+    {
+      "name": "Phantastique",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/SweetRides2002Icon.webp"
+    },
+    {
+      "name": "Pikes Peak Celica",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2004-174-xdroop.jpg"
+    },
+    {
+      "name": "Pikes Peak Tacoma",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HW_Pikes_Peak_Tacoma.JPG"
+    },
+    {
+      "name": "Plymouth Barracuda",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/1970_Plymouth_Barracuda_CIMG1042.JPG"
+    },
+    {
+      "name": "Plymouth GTX 1971",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/116.jpg"
+    },
+    {
+      "name": "Police Car",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/149.jpg"
+    },
+    {
+      "name": "Pontiac Banshee",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Hw_banshee_2001.jpg"
+    },
+    {
+      "name": "Pontiac Bonneville 1965",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/65PontiacBonneville_04TH.JPG"
+    },
+    {
+      "name": "Pontiac GTO 1967",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/67_Pontiac_GTO_Cereal_Crunchers.jpg"
+    },
+    {
+      "name": "Pontiac Rageous",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Pontiac_Rageous_-_01TH.jpg"
+    },
+    {
+      "name": "Pontiac Rageous",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Track_Aces_Pontiac_Rageous.jpg"
+    },
+    {
+      "name": "Pony-Up",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Popcycle",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/DSCN3259-1-.JPG"
+    },
+    {
+      "name": "Porsche 911",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Porsche_911_FRL.JPG"
+    },
+    {
+      "name": "Porsche 911 GT3",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Porsche911gt3cuporange2.jpg"
+    },
+    {
+      "name": "Porsche 928",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Porsche_928_P-928_green_metallic_2001.JPG"
+    },
+    {
+      "name": "Porsche 928",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Power Pipes",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Power_Pipes_Chrm.JPG"
+    },
+    {
+      "name": "Power Pipes",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Powerpipes_aces_red.JPG"
+    },
+    {
+      "name": "Power Pistons",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Power_Pistons_Org.JPG"
+    },
+    {
+      "name": "Power Pistons",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Powerpistons_YuGiOh.JPG"
+    },
+    {
+      "name": "Power Plower",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/DSC00601.jpg"
+    },
+    {
+      "name": "Power Rocket",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Power_Rocket_2.jpeg"
+    },
+    {
+      "name": "Pro Stock Firebird",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001_Pro_Stock_Firebird_Skin_Deep.jpg"
+    },
+    {
+      "name": "Pro Stock Firebird",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM8306.jpg"
+    },
+    {
       "name": "Project Twin Mill",
       "year": "2026",
       "series": "Cool Classics",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Propper Chopper",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/IMG_2244_24.jpg"
+    },
+    {
+      "name": "Propper Chopper",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Cargxcv_%2837%29.jpg"
     },
     {
       "name": "Punk Rod",
@@ -433,10 +2230,126 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Purple Passion",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Passion_AGENTAIR_10.jpg"
+    },
+    {
+      "name": "Purple Passion",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Purple Passion",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Passion_AGENTAIR_53.jpg"
+    },
+    {
+      "name": "Radar Ranger",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Radar_Ranger_ChrR.JPG"
+    },
+    {
+      "name": "Radio Flyer Wagon",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/01c172loose.jpg"
+    },
+    {
+      "name": "Ramp Truck",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ramptruck.fr.jpg"
+    },
+    {
+      "name": "Rescue Ranger",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2537.jpg"
+    },
+    {
       "name": "Ridge Crest GT",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Rigor Motor",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Rigor_Motor_OrgL.JPG"
+    },
+    {
+      "name": "Rigor Motor",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/RigorMotor_GraveRave.JPG"
+    },
+    {
+      "name": "Riley & Scott MK III",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/RileyMkIII.jpg"
+    },
+    {
+      "name": "Road Rocket",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2557.jpg"
+    },
+    {
+      "name": "Road Rocket",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Rocket Oil Special",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Rocket Oil Special",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/RocketOilSpecial_Wastelanders.JPG"
+    },
+    {
+      "name": "Rodger Dodger",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Rodger_Dodger_-_01TH.jpg"
+    },
+    {
+      "name": "Rodger Dodger",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Rodgerdodger.green.jpg"
+    },
+    {
+      "name": "Roll Cage",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Roll_Cage_-_01TH.jpg"
+    },
+    {
+      "name": "Roll Cage",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/RollCageB3807.jpg"
+    },
+    {
+      "name": "Roll Patrol",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001_194_RollPatrol.jpg"
+    },
+    {
+      "name": "Saleen S7",
+      "year": "2002",
+      "series": ""
     },
     {
       "name": "Salt Streaker",
@@ -445,10 +2358,253 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Sand Stinger",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "School Bus",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/041_Fossil_Fuel_School_Bus.jpg"
+    },
+    {
+      "name": "Scorchin' Scooter",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/IMGP1699.JPG"
+    },
+    {
+      "name": "Screamin' Hauler",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Screaminhauler.jpg"
+    },
+    {
+      "name": "Screamin' Hauler",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Spectra_flame_ii_screamin%27_hauler.jpg"
+    },
+    {
+      "name": "Screamin' Hauler",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Wastelanders_Screamin%27_Hauler.jpg"
+    },
+    {
+      "name": "Seared Tuner",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Seared_Tuner_-_02_YuGiOh.JPG"
+    },
+    {
+      "name": "Semi-Fast",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Semi-Fast_RedBlkR.JPG"
+    },
+    {
+      "name": "Semi-Fast",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Shadow Jet",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Shadow_Jet-2001_217.jpg"
+    },
+    {
+      "name": "Shadow Jet II",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/ShadowjetII_scrapheads.JPG"
+    },
+    {
+      "name": "Shadow Mk IIa",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Shadow_Mk_IIa_black_pr5_red_wing_2001.JPG"
+    },
+    {
+      "name": "Sharkruiser",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2576.jpg"
+    },
+    {
+      "name": "Sharkruiser",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Sharkruiser_Track_Aces_Series.jpg"
+    },
+    {
+      "name": "Shelby Cobra 427 S/C",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/100_4625.jpg"
+    },
+    {
+      "name": "Shelby Cobra 427 S/C",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Sho-Stopper",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Seared_Tuner_-_01_Open_Vamp.JPG"
+    },
+    {
+      "name": "Shoe Box",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Shoe_Box_PrpR.JPG"
+    },
+    {
+      "name": "Shredster",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Shredster_Yelorg.JPG"
+    },
+    {
+      "name": "Side Draft",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Sidedraft.red.jpg"
+    },
+    {
+      "name": "Side Kick",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ca2_%284%29.jpg"
+    },
+    {
+      "name": "Side Kick",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Side_Kick_BluR.JPG"
+    },
+    {
+      "name": "Skullrider",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Skull_Rider_FR.JPG"
+    },
+    {
+      "name": "Slide Out",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2540.jpg"
+    },
+    {
+      "name": "Slideout",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Sling Shot",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Sling Shot",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/04_CM_Tack_Aces_Sling_Shot.jpg"
+    },
+    {
+      "name": "So Fine",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/So_Fine_-_01TH.jpg"
+    },
+    {
+      "name": "So Fine",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/So_Fine_trq.JPG"
+    },
+    {
+      "name": "Sol-Aire CX4",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Sol-Aire_CX-4_2004Autonomicals.jpg"
+    },
+    {
+      "name": "Solar Eagle III",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Solar_Eagle_III_-_8189cf.jpg"
+    },
+    {
+      "name": "Sonic Special",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Sooo Fast",
+      "year": "2001",
+      "series": ""
+    },
+    {
+      "name": "Sooo Fast",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/TunersIcon.webp"
+    },
+    {
+      "name": "Sooo Fast",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Speed Blaster",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Speedblaster_trackaces_darkred.JPG"
+    },
+    {
+      "name": "Speed Shark",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/148.jpg"
+    },
+    {
+      "name": "Speed Shark",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Carg1.jpg"
+    },
+    {
       "name": "Spider-Mobile",
       "year": "2026",
       "series": "Screen Time",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Spin Out",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Splittin' Image",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Splittinimage_04TH.JPG"
+    },
+    {
+      "name": "SS Commodore",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Holden_-_01_OV.jpg"
+    },
+    {
+      "name": "Steel Flame",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/144.jpg"
     },
     {
       "name": "Street Roader",
@@ -469,15 +2625,166 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/StreetShrieker.jpg"
     },
     {
+      "name": "Submarine",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Sub2001.JPG"
+    },
+    {
+      "name": "Super Comp Dragster",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/093.jpg"
+    },
+    {
+      "name": "Super Modified",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2584.jpg"
+    },
+    {
+      "name": "Super Modified",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Super Smooth",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "Super Smooth",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Smooth.jpg"
+    },
+    {
+      "name": "Super Tsunami",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Supertsunami.gold.jpg"
+    },
+    {
+      "name": "Super Tuned",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/017.jpg"
+    },
+    {
+      "name": "Super Tuned",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/56137.jpg"
+    },
+    {
+      "name": "Surf Crate",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Surf_Crate_gld.JPG"
+    },
+    {
+      "name": "Surf Crate",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Surf_Crate_Blu.JPG"
+    },
+    {
+      "name": "Surfin' S'Cool Bus",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "Surfin' School Bus",
+      "year": "2001",
+      "series": ""
+    },
+    {
+      "name": "Surfin' School Bus",
+      "year": "2002",
+      "series": ""
+    },
+    {
       "name": "Sweet Driver",
       "year": "2026",
       "series": "Sweet Rides",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Swoop Coupe",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Swoop_Coupe_CIMG1049.JPG"
+    },
+    {
+      "name": "Syd Mead's Sentinel 400 Limo",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/054.jpg"
+    },
+    {
+      "name": "T-Bird 1957",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/57tbird.white.jpg"
+    },
+    {
+      "name": "T-Bird Stocker",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mainline_t_bird_stocker.jpg"
+    },
+    {
+      "name": "Tail Dragger",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Tail_Dragger_Blu.JPG"
+    },
+    {
+      "name": "Tail Dragger",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Tail_Dragger_-_02TH.jpg"
+    },
+    {
+      "name": "Talbot Lago",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Talbo_Lago.jpg"
+    },
+    {
+      "name": "Tantrum",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Tantrum_mainline.jpg"
+    },
+    {
+      "name": "Tantrum",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Tantrum_04TH.JPG"
+    },
+    {
       "name": "Test Car 2027",
       "year": "2027",
       "series": "Test Series"
+    },
+    {
+      "name": "The Demon",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/The_Demon_Slv.JPG"
+    },
+    {
+      "name": "Thomassima III",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/ThomassimaAcquaDesignTOM_MEADE-1999.jpg"
+    },
+    {
+      "name": "Tire Fryer",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Wastelanders_Tire_Fryer.jpg"
     },
     {
       "name": "Tooned Bone Shaker",
@@ -486,16 +2793,75 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Torpedo Jones",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Torpedo_Jones_Red.JPG"
+    },
+    {
       "name": "Toyota AE86 Sprinter Trueno",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Toyota Celica",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/036.jpg"
+    },
+    {
+      "name": "Toyota MR2",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2536.jpg"
+    },
+    {
+      "name": "Toyota RSC",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2002FEToyotaRSC.jpg"
+    },
+    {
+      "name": "Track T",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/TrackT_Blk.JPG"
+    },
+    {
       "name": "Tractor",
       "year": "1993",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Tractor_Red.JPG"
+    },
+    {
+      "name": "Tropicool",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Good_Humor_Truck_Redtag.JPG"
+    },
+    {
+      "name": "Turbo Flame",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Turboflame_aces.JPG"
+    },
+    {
+      "name": "Turbolence",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2001logomotiveturbolence.jpg"
+    },
+    {
+      "name": "Twin Mill II",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Twin-mill-II-2001-red.jpg"
+    },
+    {
+      "name": "Twin Mill II",
+      "year": "2002",
+      "series": ""
     },
     {
       "name": "Uncertain T",
@@ -514,6 +2880,110 @@
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Volkswagen New Beetle Cup",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/045.02.jpg"
+    },
+    {
+      "name": "Vulture",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Vulture_-_01TH.jpg"
+    },
+    {
+      "name": "Vulture",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Vulture_-_Cold_Blooded_Series.jpg"
+    },
+    {
+      "name": "Vulture",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Vulture_2004_Track_Aces.jpg"
+    },
+    {
+      "name": "Vulture Roadster",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Vulture_Roadster_R.JPG"
+    },
+    {
+      "name": "VW Bug",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/VW_Bug_AGENTAIR_10.jpg"
+    },
+    {
+      "name": "Whatta Drag",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Whatta_Drag_CIMG1040.JPG"
+    },
+    {
+      "name": "Wheel Loader",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/CATWheelLoader123.jpg"
+    },
+    {
+      "name": "Whip Creamer II",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Whip2_04TH.JPG"
+    },
+    {
+      "name": "Wild Thing",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "XS-IVE",
+      "year": "2001",
+      "series": ""
+    },
+    {
+      "name": "XT-3",
+      "year": "2001",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/XT-3_FR.JPG"
+    },
+    {
+      "name": "Zender Fact 4",
+      "year": "2004",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Zender_Fact_4_CIMG1043.JPG"
+    },
+    {
+      "name": "Zotic",
+      "year": "2004",
+      "series": ""
+    },
+    {
+      "name": "’32 Ford Vicky",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/32_Ford_Vicky_prp5.JPG"
+    },
+    {
+      "name": "’41 Willys Coupe",
+      "year": "2002",
+      "series": ""
+    },
+    {
+      "name": "’58 Corvette",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/58corvette.yellow.jpg"
+    },
+    {
+      "name": "’63 Corvette",
+      "year": "2002",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/070.jpg"
     }
   ],
   "dataUrl": "https://raw.githubusercontent.com/rajavardhan043/DiecastApp/main/src/data/carLookup.json"
