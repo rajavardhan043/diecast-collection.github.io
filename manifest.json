@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "lastYear": "2027",
   "entries": [
     {
@@ -474,6 +474,12 @@
       "name": "1972 Datsun Sunny Coupe",
       "year": "2026",
       "series": "Compact Kings",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "1989 Batmobile Cocoon",
+      "year": "2026",
+      "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -1953,6 +1959,12 @@
     },
     {
       "name": "Nissan Skyline GT-R",
+      "year": "2026",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Nissan Skyline HT 2000 GT-X",
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
