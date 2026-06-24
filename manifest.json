@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "lastYear": "2027",
   "entries": [
     {
@@ -222,6 +222,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2010-05-13_11.50.21.jpg"
+    },
+    {
+      "name": "'66 Buick Riviera",
+      "year": "2026",
+      "series": "Cool Classics",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "'67 Dodge Charger",
@@ -454,6 +460,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/1969_Pontiac_GTO_BlkR.JPG"
+    },
+    {
+      "name": "1970 Custom Plymouth Roadrunner",
+      "year": "2026",
+      "series": "Screen Time",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "1970 Plymouth Road Runner",
@@ -2515,6 +2527,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2540.jpg"
+    },
+    {
+      "name": "Slide-Burn",
+      "year": "2026",
+      "series": "HW Torque",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Slideout",
