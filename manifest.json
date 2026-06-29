@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "lastYear": "2027",
   "entries": [
     {
@@ -91,6 +91,11 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/40sFordTruck_Harley5.JPG"
+    },
+    {
+      "name": "'40's Woodie",
+      "year": "1999",
+      "series": ""
     },
     {
       "name": "'40s Woody",
@@ -338,6 +343,11 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Roadrunner.jpg"
     },
     {
+      "name": "'70 Roadrunner",
+      "year": "1999",
+      "series": ""
+    },
+    {
       "name": "'71 Lamborghini Miura SV",
       "year": "2026",
       "series": "Cool Classics",
@@ -413,6 +423,12 @@
       "name": "1935 Cadillac",
       "year": "2004",
       "series": ""
+    },
+    {
+      "name": "1936 Cord",
+      "year": "1999",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/1999-1113a.jpg"
     },
     {
       "name": "1936 Cord",
@@ -525,6 +541,12 @@
     },
     {
       "name": "3-Window '34",
+      "year": "1999",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Auburn_852_WhtBlk.JPG"
+    },
+    {
+      "name": "3-Window '34",
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/3window34.green.jpg"
@@ -618,6 +640,11 @@
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "At-A-Tude",
+      "year": "1999",
+      "series": ""
     },
     {
       "name": "ATV",
@@ -1024,6 +1051,12 @@
     },
     {
       "name": "Dodge Sidewinder",
+      "year": "1999",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Porsche_Carrera_SilvTmp.JPG"
+    },
+    {
+      "name": "Dodge Sidewinder",
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Dodge_Sidewinder_Company_Cars_3SP.jpg"
@@ -1373,6 +1406,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Recycling_Truck_FR.JPG"
     },
     {
+      "name": "GM Lean Machine",
+      "year": "1999",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Speed_Blaster_grnsbg.JPG"
+    },
+    {
       "name": "GM Ultralite",
       "year": "2001",
       "series": "",
@@ -1695,6 +1734,12 @@
     },
     {
       "name": "Lamborghini Diablo",
+      "year": "1999",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lamborghini_Diablo_mtgrn.JPG"
+    },
+    {
+      "name": "Lamborghini Diablo",
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lamborghini_diablo_purple_metallic_2000_mainline.JPG"
@@ -1779,6 +1824,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/100_6631.jpg"
+    },
+    {
+      "name": "Mercedes 540K",
+      "year": "1999",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Mercedes_540K_-_99TH.jpg"
     },
     {
       "name": "Mercedes C-Class",
@@ -2236,6 +2287,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM8306.jpg"
     },
     {
+      "name": "Probe Funny Car",
+      "year": "1999",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FireBird_Funny_1997_Blk.JPG"
+    },
+    {
       "name": "Project Twin Mill",
       "year": "2026",
       "series": "Cool Classics",
@@ -2293,6 +2350,11 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Ramptruck.fr.jpg"
+    },
+    {
+      "name": "Range Rover",
+      "year": "1999",
+      "series": ""
     },
     {
       "name": "Rescue Ranger",
@@ -2386,6 +2448,11 @@
       "year": "2026",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Saltflat Racer",
+      "year": "1999",
+      "series": ""
     },
     {
       "name": "Sand Stinger",
@@ -2671,6 +2738,11 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/093.jpg"
+    },
+    {
+      "name": "Super Modified",
+      "year": "1999",
+      "series": ""
     },
     {
       "name": "Super Modified",
