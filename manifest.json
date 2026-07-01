@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "lastYear": "2027",
   "entries": [
     {
@@ -372,6 +372,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'96 Chevrolet Impala SS",
+      "year": "2026",
+      "series": "HW Torque",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "'96 Dodge Viper GTS",
       "year": "2026",
       "series": "HW Torque",
@@ -616,6 +622,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Arachnorod137.jpg"
+    },
+    {
+      "name": "Armored Batmobile",
+      "year": "2026",
+      "series": "Batman",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Armored Car",
@@ -879,6 +891,12 @@
       "year": "2002",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Star_Spangled_Chrysler_Pronto_-_7063df.jpg"
+    },
+    {
+      "name": "Circle Tracker",
+      "year": "2026",
+      "series": "HW All Drivers Welcome",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Click Shift",
@@ -1152,6 +1170,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/141.jpg"
+    },
+    {
+      "name": "Fast Fish",
+      "year": "2026",
+      "series": "Team Wheels",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Fat Fendered '40",
@@ -1874,6 +1898,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Meyersmanx_04TH.JPG"
     },
     {
+      "name": "Mickey Mouse Car",
+      "year": "2026",
+      "series": "Screen Time",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Mickey Mouse's Car",
       "year": "2026",
       "series": "",
@@ -2115,6 +2145,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Panoz_LMP_Roadster_S_-_02TH.jpg"
     },
     {
+      "name": "Party Wagon",
+      "year": "2026",
+      "series": "Screen Time",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Path Beater",
       "year": "1993",
       "series": "",
@@ -2167,6 +2203,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/116.jpg"
+    },
+    {
+      "name": "Polestar",
+      "year": "2026",
+      "series": "HW EV",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Police Car",
@@ -2783,6 +2825,12 @@
       "year": "2002",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/56137.jpg"
+    },
+    {
+      "name": "Surf 'N Turf",
+      "year": "2026",
+      "series": "Hot Wheels Let's Race",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Surf Crate",

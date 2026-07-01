@@ -6389,6 +6389,12 @@
     "series": "HW Rescue"
   },
   {
+    "name": "'96 Chevrolet Impala SS",
+    "year": "2026",
+    "series": "HW Torque",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "'96 Dodge Viper GTS",
     "year": "2025",
     "series": "Then and Now"
@@ -8979,6 +8985,12 @@
     "name": "Armadillo",
     "year": "2022",
     "series": "HW Screen Time"
+  },
+  {
+    "name": "Armored Batmobile",
+    "year": "2026",
+    "series": "Batman",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "Armored Car",
@@ -12927,6 +12939,12 @@
     "name": "Circle Tracker",
     "year": "2020",
     "series": "HW Race Day"
+  },
+  {
+    "name": "Circle Tracker",
+    "year": "2026",
+    "series": "HW All Drivers Welcome",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "Circle Trucker",
@@ -17210,6 +17228,12 @@
     "name": "Fast Fish",
     "year": "2022",
     "series": "HW Speed Team"
+  },
+  {
+    "name": "Fast Fish",
+    "year": "2026",
+    "series": "Team Wheels",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "Fast Fortress",
@@ -25087,6 +25111,12 @@
     "series": ""
   },
   {
+    "name": "Mickey Mouse Car",
+    "year": "2026",
+    "series": "Screen Time",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "Mickey Mouse's Car",
     "year": "2026",
     "series": "",
@@ -27478,6 +27508,12 @@
     "series": "HW Screen Time"
   },
   {
+    "name": "Party Wagon",
+    "year": "2026",
+    "series": "Screen Time",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+  },
+  {
     "name": "Pass 'n Go",
     "year": "2026",
     "series": "Drop Tops"
@@ -28060,6 +28096,12 @@
     "name": "Poison Pinto",
     "year": "1979",
     "series": ""
+  },
+  {
+    "name": "Polestar",
+    "year": "2026",
+    "series": "HW EV",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "Polestar TRX",
@@ -34266,6 +34308,12 @@
     "name": "Surf 'N Turf",
     "year": "2023",
     "series": "Surf's Up"
+  },
+  {
+    "name": "Surf 'N Turf",
+    "year": "2026",
+    "series": "Hot Wheels Let's Race",
+    "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
   },
   {
     "name": "Surf Crate",
