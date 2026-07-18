@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "lastYear": "2027",
   "entries": [
     {
@@ -654,6 +654,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Aston Martin DB5 Safari Edition",
+      "year": "2026",
+      "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "At-A-Tude",
       "year": "1999",
       "series": ""
@@ -715,6 +721,12 @@
       "name": "Ballistik",
       "year": "2002",
       "series": ""
+    },
+    {
+      "name": "Batman: Arkham Asylum Batmobile",
+      "year": "2011",
+      "series": "2011 New Models",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/BatmobileArkham_NewModel.JPG"
     },
     {
       "name": "Big Thunder",
@@ -971,6 +983,12 @@
       "name": "Custom Cougar",
       "year": "2002",
       "series": ""
+    },
+    {
+      "name": "Custom Vanster",
+      "year": "2026",
+      "series": "Trophy Case",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Custom Vanster 4WD",
@@ -1428,6 +1446,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Recycling_Truck_FR.JPG"
+    },
+    {
+      "name": "Gazella GT",
+      "year": "2026",
+      "series": "Trophy Case",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "GM Lean Machine",
@@ -2256,6 +2280,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/DSCN3259-1-.JPG"
+    },
+    {
+      "name": "Porsche 908-3",
+      "year": "2026",
+      "series": "Cool Classics",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Porsche 911",
