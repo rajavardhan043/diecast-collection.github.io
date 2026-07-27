@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "lastYear": "2027",
   "entries": [
     {
@@ -203,6 +203,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/%2764_Lincoln_Continental_-_0120df.jpg"
+    },
+    {
+      "name": "'64 Lincoln Continental",
+      "year": "2027",
+      "series": "Best in Class",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "'64 Riviera",
