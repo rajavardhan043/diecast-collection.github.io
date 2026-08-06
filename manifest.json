@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "lastYear": "2027",
   "entries": [
     {
@@ -301,6 +301,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2012-MMGM-69Camaro-Black.jpg"
     },
     {
+      "name": "'69 Dodge Coronet Superbee",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "'70 Buick GSX",
       "year": "2026",
       "series": "HW Torque",
@@ -363,6 +369,12 @@
       "name": "'72 Datsun Sunny Coupe",
       "year": "2026",
       "series": "Compact Kings",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'77 Ferrari 308 GTS",
+      "year": "2027",
+      "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -934,6 +946,12 @@
       "series": ""
     },
     {
+      "name": "Corvette Grand Sport Roadster",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Corvette Sting Ray",
       "year": "2004",
       "series": "",
@@ -1142,6 +1160,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2582.jpg"
+    },
+    {
+      "name": "Drift-Ender",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Duck N' Roll",
@@ -1811,6 +1835,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Lancia.red.jpg"
     },
     {
+      "name": "Lil' Mad",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Lil' Roar",
       "year": "2026",
       "series": "",
@@ -1866,6 +1896,12 @@
       "name": "Maelstrom",
       "year": "2001",
       "series": ""
+    },
+    {
+      "name": "Maserati Tipo 61",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Mega-Duty",
