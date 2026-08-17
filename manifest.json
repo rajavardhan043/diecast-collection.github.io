@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "lastYear": "2027",
   "entries": [
     {
@@ -2104,6 +2104,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2004-157-NashMetropolitan-Black.jpg"
+    },
+    {
+      "name": "Nissan Leaf NISMO RC 02",
+      "year": "2021",
+      "series": "HW Green Speed",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/GRX36_Nissan_Leaf_Nismo_RC_02_Loose.jpg"
     },
     {
       "name": "Nissan Silvia S-15",
