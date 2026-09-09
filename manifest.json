@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "lastYear": "2027",
   "entries": [
     {
@@ -796,6 +796,12 @@
       "name": "BMW M4 GT3",
       "year": "2026",
       "series": "HW Starting Grid",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "BMW M4 GT3",
+      "year": "2027",
+      "series": "Nightspeed",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
