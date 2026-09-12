@@ -1,11 +1,17 @@
 {
-  "version": 33,
+  "version": 34,
   "lastYear": "2027",
   "entries": [
     {
       "name": "'11 Corvette Grand Sport",
       "year": "2026",
       "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'15 Dodge Challenger SRT",
+      "year": "2027",
+      "series": "Speed Blur",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -30,6 +36,12 @@
       "name": "'21 Ford Bronco",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'22 Ford Maverick Custom",
+      "year": "2027",
+      "series": "Nightspeed",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -381,6 +393,12 @@
       "name": "'82 Toyota Supra",
       "year": "2026",
       "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'84 Audi Sport quattro",
+      "year": "2027",
+      "series": "HW Dirt",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -759,6 +777,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/BatmobileArkham_NewModel.JPG"
     },
     {
+      "name": "Batmobile",
+      "year": "2027",
+      "series": "Batman",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Big Thunder",
       "year": "2004",
       "series": ""
@@ -882,9 +906,21 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Camaroz28.purple.jpg"
     },
     {
+      "name": "Carbonator",
+      "year": "2027",
+      "series": "Mid-Engines",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Cat-A-Pult",
       "year": "2004",
       "series": ""
+    },
+    {
+      "name": "Celero GT",
+      "year": "2027",
+      "series": "HW Hall of Famers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Chaparral 2",
@@ -1192,6 +1228,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "El Segundo Coupe",
+      "year": "2027",
+      "series": "HW Hall of Famers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "El Segundo Coupé Clip",
       "year": "2026",
       "series": "Experimotors",
@@ -1272,6 +1314,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Race_Bait_308_FRL.JPG"
+    },
+    {
+      "name": "Ferrari 308 GTS",
+      "year": "2027",
+      "series": "Ferrari",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Ferrari 333 SP",
@@ -1431,6 +1479,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Fordgt90.jpg"
     },
     {
+      "name": "Ford GT40",
+      "year": "2027",
+      "series": "Mid-Engines",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Ford Model A Custom '31",
       "year": "2026",
       "series": "Rod Squad",
@@ -1476,6 +1530,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/HPIM2538.jpg"
+    },
+    {
+      "name": "Forward Force",
+      "year": "2027",
+      "series": "X-Raycers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Fright Bike",
@@ -1590,6 +1650,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Hammered_Coupe_BlkR.JPG"
+    },
+    {
+      "name": "Hi-Roller",
+      "year": "2027",
+      "series": "X-Raycers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Honda Civic Si",
@@ -1793,6 +1859,12 @@
       "series": ""
     },
     {
+      "name": "Kowloon'd Hypervan",
+      "year": "2027",
+      "series": "HW Heavyweights",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Krazy 8s",
       "year": "2001",
       "series": "",
@@ -1865,6 +1937,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Limited Grip",
+      "year": "2027",
+      "series": "HW Sketch Mode",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Limozeen",
       "year": "2001",
       "series": "",
@@ -1919,6 +1997,18 @@
       "name": "Maserati Tipo 61",
       "year": "2027",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Mazda RX-7",
+      "year": "2027",
+      "series": "Nightspeed",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "McLaren F1",
+      "year": "2027",
+      "series": "HW Fan Driven",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -2124,6 +2214,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/2004-157-NashMetropolitan-Black.jpg"
     },
     {
+      "name": "Night Shifter",
+      "year": "2027",
+      "series": "Nightspeed",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Nissan Leaf NISMO RC 02",
       "year": "2021",
       "series": "HW Green Speed",
@@ -2215,6 +2311,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Outsider_Org.JPG"
+    },
+    {
+      "name": "Pagani Zonda Cinque",
+      "year": "2027",
+      "series": "HW Euro",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Panoz GTR-1",
@@ -2372,6 +2474,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Porsche911gt3cuporange2.jpg"
     },
     {
+      "name": "Porsche 911 GT3 RS",
+      "year": "2027",
+      "series": "HW Fan Driven",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Porsche 928",
       "year": "2001",
       "series": "",
@@ -2490,6 +2598,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/01c172loose.jpg"
     },
     {
+      "name": "Raijin Express",
+      "year": "2027",
+      "series": "HW Sketch Mode",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Ramp Truck",
       "year": "2001",
       "series": "",
@@ -2602,6 +2716,12 @@
       "name": "Sand Stinger",
       "year": "2004",
       "series": ""
+    },
+    {
+      "name": "Sandivore",
+      "year": "2027",
+      "series": "Hot Wheels Let's Race",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "School Bus",
@@ -3120,6 +3240,12 @@
       "name": "Twin Mill II",
       "year": "2002",
       "series": ""
+    },
+    {
+      "name": "Ultra Turbofire",
+      "year": "2027",
+      "series": "Hot Wheels Let's Race",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Uncertain T",
