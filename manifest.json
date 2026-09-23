@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "lastYear": "2027",
   "entries": [
     {
@@ -2415,6 +2415,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/149.jpg"
     },
     {
+      "name": "Polski Fiat 126B",
+      "year": "2027",
+      "series": "HW Euro",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Pontiac Banshee",
       "year": "2001",
       "series": "",
@@ -3306,6 +3312,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/VW_Bug_AGENTAIR_10.jpg"
+    },
+    {
+      "name": "VW Golf MK1 GTI",
+      "year": "2027",
+      "series": "HW Euro",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Whatta Drag",
