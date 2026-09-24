@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "lastYear": "2027",
   "entries": [
     {
@@ -193,6 +193,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/%2759_Chevy_Impala_BlkLW.JPG"
     },
     {
+      "name": "'61 Impala",
+      "year": "2027",
+      "series": "Rod Squad",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "'63 Chevy II",
       "year": "2026",
       "series": "Compact Kings",
@@ -319,6 +325,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'69 Ford Mustang Boss 302",
+      "year": "2027",
+      "series": "Throwback Cruisers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "'70 Buick GSX",
       "year": "2026",
       "series": "HW Torque",
@@ -402,6 +414,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'87 Buick Regal GNX",
+      "year": "2027",
+      "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "'94 Audi Avant RS2",
       "year": "2026",
       "series": "Wagons",
@@ -436,6 +454,12 @@
       "year": "2002",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/068.jpg"
+    },
+    {
+      "name": "'99 Honda Civic Type R",
+      "year": "2027",
+      "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "'99 Mustang",
@@ -573,6 +597,18 @@
       "name": "2019 Audi TT Safari",
       "year": "2026",
       "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "2019 Audi TT Safari",
+      "year": "2027",
+      "series": "HW Euro",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "2020 Koenigsegg Jesko",
+      "year": "2027",
+      "series": "Factory Fresh",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -817,6 +853,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/BMW_850_FR.JPG"
     },
     {
+      "name": "BMW M3 GT2",
+      "year": "2027",
+      "series": "Speed Blur",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "BMW M4 GT3",
       "year": "2026",
       "series": "HW Starting Grid",
@@ -874,6 +916,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/CadillacCien_04TH.JPG"
+    },
+    {
+      "name": "Cadillac CTS-V",
+      "year": "2027",
+      "series": "Nightspeed",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Cadillac Escalade",
@@ -1363,6 +1411,12 @@
       "name": "Ferrari F2004",
       "year": "2026",
       "series": "HW Starting Grid",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Ferrari F2004",
+      "year": "2027",
+      "series": "Ferrari",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -2416,6 +2470,12 @@
     },
     {
       "name": "Polski Fiat 126B",
+      "year": "2027",
+      "series": "HW Euro",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Polski Fiat 126p",
       "year": "2027",
       "series": "HW Euro",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
