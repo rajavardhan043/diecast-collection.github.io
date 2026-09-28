@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "lastYear": "2027",
   "entries": [
     {
@@ -263,6 +263,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/67_Dodge_Charger_-_01TH.jpg"
+    },
+    {
+      "name": "'67 Lotus Type 49",
+      "year": "2027",
+      "series": "Throwback Cruisers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "'67 Pontiac Firebird 400",
@@ -1025,6 +1031,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Chevy_Stocker.jpg"
     },
     {
+      "name": "Chrysler Pacifica",
+      "year": "2027",
+      "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Chrysler Pronto",
       "year": "2002",
       "series": "",
@@ -1078,6 +1090,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/CorvetteStingray3B3814.jpg"
     },
     {
+      "name": "Croc Rod",
+      "year": "2027",
+      "series": "Hot Wheels Let's Race",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Cunningham C4R",
       "year": "2001",
       "series": "",
@@ -1088,6 +1106,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Cunningham_2004_Pride_Rides_176.jpg"
+    },
+    {
+      "name": "Cupra e-Racer",
+      "year": "2027",
+      "series": "Speed Blur",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Custom '59 Cadillac",
@@ -1718,6 +1742,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "High-Tail Chaser",
+      "year": "2027",
+      "series": "Mid-Engines",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Honda Civic Si",
       "year": "2001",
       "series": ""
@@ -1785,6 +1815,12 @@
       "name": "HW Test Ride",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "HW Test Ride",
+      "year": "2027",
+      "series": "X-Raycers",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -2699,6 +2735,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Ridge Crest GT",
+      "year": "2027",
+      "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Rigor Motor",
       "year": "2001",
       "series": "",
@@ -2749,6 +2791,12 @@
       "year": "2002",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Rodgerdodger.green.jpg"
+    },
+    {
+      "name": "Rodger Dodger",
+      "year": "2027",
+      "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Roll Cage",
@@ -2830,6 +2878,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Wastelanders_Screamin%27_Hauler.jpg"
+    },
+    {
+      "name": "Screamliner",
+      "year": "2027",
+      "series": "Best in Class",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Seared Tuner",
@@ -3395,6 +3449,12 @@
       "name": "VW Golf Mk1 GTI",
       "year": "2027",
       "series": "HW Euro",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "VW ID. Buzz Bomb",
+      "year": "2027",
+      "series": "Factory Fresh",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
