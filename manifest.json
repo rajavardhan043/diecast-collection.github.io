@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "lastYear": "2027",
   "entries": [
     {
@@ -299,6 +299,12 @@
       "year": "2002",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/082.jpg"
+    },
+    {
+      "name": "'68 Lotus Type 49",
+      "year": "2027",
+      "series": "Throwback Cruisers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "'68 Mercury Cougar",
@@ -2442,6 +2448,12 @@
       "name": "Party Wagon",
       "year": "2026",
       "series": "Screen Time",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Pass'n Gasser",
+      "year": "2027",
+      "series": "Rod Squad",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
