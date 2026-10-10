@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "lastYear": "2027",
   "entries": [
     {
@@ -1367,6 +1367,12 @@
     },
     {
       "name": "Drift-Ender",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Drifty Seven",
       "year": "2027",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
