@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "lastYear": "2027",
   "entries": [
     {
@@ -64,6 +64,12 @@
     },
     {
       "name": "'24 Toyota GR86 Pandem",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'25 Ford Shelby F-150 Super Snake",
       "year": "2027",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
@@ -450,6 +456,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'87 Dodge D100",
+      "year": "2027",
+      "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "'88 Mitsubishi Starion",
       "year": "2027",
       "series": "",
@@ -631,6 +643,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "1989 Ford Mustang LX",
+      "year": "2027",
+      "series": "Drag Racers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "1997 Corvette",
       "year": "2004",
       "series": ""
@@ -675,6 +693,12 @@
       "name": "2024 Toyota GR86 Pandem",
       "year": "2027",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "2026 Morgan Super Sport",
+      "year": "2027",
+      "series": "Factory Fresh",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -996,6 +1020,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Cadaillac.jpg"
     },
     {
+      "name": "Cadillac Formula 1 Team",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Cadillac LMP",
       "year": "2001",
       "series": "",
@@ -1255,6 +1285,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/081.jpg"
     },
     {
+      "name": "Deora II",
+      "year": "2027",
+      "series": "Rod Squad",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Deora Too'nd",
       "year": "2027",
       "series": "",
@@ -1448,6 +1484,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Fat_Fendered_%2740_-_02TH.jpg"
     },
     {
+      "name": "Ferrari 12Cilindri",
+      "year": "2027",
+      "series": "Ferrari",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Ferrari 156",
       "year": "2001",
       "series": "",
@@ -1458,6 +1500,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/FERRARI_250_002.jpg"
+    },
+    {
+      "name": "Ferrari 296 GTS",
+      "year": "2027",
+      "series": "Ferrari",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Ferrari 308",
@@ -2406,6 +2454,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/GRX36_Nissan_Leaf_Nismo_RC_02_Loose.jpg"
     },
     {
+      "name": "Nissan Patrol Custom",
+      "year": "2027",
+      "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Nissan Silvia S-15",
       "year": "2011",
       "series": "",
@@ -2788,6 +2842,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Radar_Ranger_ChrR.JPG"
+    },
+    {
+      "name": "Radford Type 62-2 Roadster",
+      "year": "2027",
+      "series": "Mid-Engines",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Radio Flyer Wagon",
@@ -3196,6 +3256,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Holden_-_01_OV.jpg"
     },
     {
+      "name": "Starting Bloc",
+      "year": "2027",
+      "series": "Throwback Cruisers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Steel Flame",
       "year": "2004",
       "series": "",
@@ -3480,6 +3546,12 @@
       "name": "Twin Mill II",
       "year": "2002",
       "series": ""
+    },
+    {
+      "name": "Tyco Turbo Hopper",
+      "year": "2027",
+      "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Ultra Turbofire",
