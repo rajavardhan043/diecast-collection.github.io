@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "lastYear": "2027",
   "entries": [
     {
@@ -612,6 +612,12 @@
       "name": "1970 Pontiac Firebird",
       "year": "2026",
       "series": "Red Edition"
+    },
+    {
+      "name": "1971 Nissan Skyline H/T 2000 GT-R",
+      "year": "2027",
+      "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "1971 Nissan Skyline H/T 2000GT-R",
