@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "lastYear": "2027",
   "entries": [
     {
@@ -3272,6 +3272,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/144.jpg"
+    },
+    {
+      "name": "StepAside!",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Street Roader",
