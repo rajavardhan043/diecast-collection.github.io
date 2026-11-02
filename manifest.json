@@ -1,5 +1,5 @@
 {
-  "version": 45,
+  "version": 46,
   "lastYear": "2027",
   "entries": [
     {
@@ -1163,6 +1163,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Corn Shaker",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Corvette",
       "year": "2001",
       "series": "",
@@ -1196,6 +1202,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/CorvetteStingray3B3814.jpg"
+    },
+    {
+      "name": "Cosmic Shifter",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Croc Rod",
@@ -3601,6 +3613,12 @@
       "year": "2004",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Good_Humor_Truck_Redtag.JPG"
+    },
+    {
+      "name": "Turbo Crest",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Turbo Flame",
