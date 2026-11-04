@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "lastYear": "2027",
   "entries": [
     {
@@ -703,6 +703,12 @@
     },
     {
       "name": "2024 Toyota GR86 Pandem",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "2026 Corvette C8 ZR1X",
       "year": "2027",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
