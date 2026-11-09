@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "lastYear": "2027",
   "entries": [
     {
@@ -1060,6 +1060,12 @@
       "year": "2001",
       "series": "",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/013.jpg"
+    },
+    {
+      "name": "CadZZilla",
+      "year": "2027",
+      "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Camaro 1995",
