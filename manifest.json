@@ -1,7 +1,13 @@
 {
-  "version": 48,
+  "version": 49,
   "lastYear": "2027",
   "entries": [
+    {
+      "name": "'09 Corvette ZR1",
+      "year": "2027",
+      "series": "HW Fan Driven",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
     {
       "name": "'11 Corvette Grand Sport",
       "year": "2026",
@@ -373,6 +379,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "'70 Buick GSX",
+      "year": "2027",
+      "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "'70 Chevelle SS",
       "year": "2001",
       "series": "",
@@ -471,6 +483,12 @@
       "name": "'94 Audi Avant RS2",
       "year": "2026",
       "series": "Wagons",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "'95 Mazda RX-7 Drift",
+      "year": "2027",
+      "series": "HW Fan Driven",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -699,6 +717,12 @@
       "name": "2020 Ram 1500 Rebel",
       "year": "2027",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "2024 Aston Martin Vantage GT3",
+      "year": "2027",
+      "series": "HW Euro",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -1139,6 +1163,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Prostocktruck.jpg"
     },
     {
+      "name": "Chevy Silverado Off Road",
+      "year": "2027",
+      "series": "HW Dirt",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Chevy Stocker",
       "year": "2001",
       "series": "",
@@ -1172,6 +1202,12 @@
       "name": "Click Shift",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Cool-One",
+      "year": "2027",
+      "series": "HW Heavyweights",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -1266,6 +1302,12 @@
       "name": "Custom '69 Chevy",
       "year": "2002",
       "series": ""
+    },
+    {
+      "name": "Custom '72 Chevy LUV",
+      "year": "2027",
+      "series": "Circuit Breakers",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
       "name": "Custom 2020 Honda e",
@@ -1731,6 +1773,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Escort_Rally.jpg"
     },
     {
+      "name": "Ford Escort RS2000",
+      "year": "2027",
+      "series": "HW Euro",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Ford F-150 Lightning SuperTruck",
       "year": "2026",
       "series": "Truckin' Along",
@@ -2165,6 +2213,12 @@
       "series": ""
     },
     {
+      "name": "K.I.T.T. Super Pursuit Mode",
+      "year": "2027",
+      "series": "Screen Time",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/KITTSPM.jpg"
+    },
+    {
       "name": "Kowloon'd Hypervan",
       "year": "2027",
       "series": "HW Heavyweights",
@@ -2393,6 +2447,12 @@
       "name": "Mickey Mouse's Car",
       "year": "2026",
       "series": "",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Mid Mill",
+      "year": "2027",
+      "series": "Drag Racers",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
@@ -2833,6 +2893,12 @@
       "series": ""
     },
     {
+      "name": "Porsche 934 Turbo RSR",
+      "year": "2027",
+      "series": "Nightspeed",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Power Pipes",
       "year": "2001",
       "series": "",
@@ -3045,6 +3111,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
+      "name": "Rodger Dodger 2.0",
+      "year": "2027",
+      "series": "Then and Now",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Roll Cage",
       "year": "2001",
       "series": "",
@@ -3108,6 +3180,12 @@
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/IMGP1699.JPG"
     },
     {
+      "name": "Scorpedo",
+      "year": "2027",
+      "series": "Street Beasts",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
       "name": "Screamin' Hauler",
       "year": "2001",
       "series": "",
@@ -3129,6 +3207,12 @@
       "name": "Screamliner",
       "year": "2027",
       "series": "Best in Class",
+      "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
+    },
+    {
+      "name": "Scuderia Ferrari HP",
+      "year": "2027",
+      "series": "Formula 1",
       "img": "https://hotwheels.fandom.com/wiki/Special:FilePath/Image_Not_Available.jpg"
     },
     {
